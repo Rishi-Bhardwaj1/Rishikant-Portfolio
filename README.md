@@ -51,9 +51,7 @@ Portfolio/
 │── README.md
 ```
 
-##  Live Demo
 
-(Add your GitHub Pages link here)
 
 ##  Contact
 
