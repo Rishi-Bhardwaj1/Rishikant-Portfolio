@@ -32,19 +32,7 @@ I enjoy building projects, learning new technologies, and improving my problem-s
  Machine Learning Basics
  Python Libraries
 
-##  Projects
 
-### 1. Java GUI Calculator
- A desktop calculator application built using Java Swing.
- Features basic arithmetic operations with a user-friendly interface.
-
-### 2. Tic Tac Toe Game
- A GUI-based Tic Tac Toe game developed using Java.
- Includes win detection and restart functionality.
-
-### 3. To-Do List Application
- A task management application built using HTML, CSS, and JavaScript.
- Allows users to manage daily tasks.
 
 ##  Technologies Used
 
