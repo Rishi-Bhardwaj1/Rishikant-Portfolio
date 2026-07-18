@@ -48,6 +48,7 @@ C++
 ```
 Portfolio/
 │── index.html
+│── style.css
 │── README.md
 ```
 
